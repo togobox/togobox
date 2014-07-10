@@ -1,4 +1,4 @@
-![togobox logo][togobox.png]
+![togobox logo](togobox.png)
 
 To-Go Box
 =======
