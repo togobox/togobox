@@ -1,4 +1,4 @@
-togobox
+[togobox.png]
 =======
 
-ToGo Box is a Node.js Deployment API
+To-Go Box is a Deployment API Built on Node.js 
