@@ -1,0 +1,9 @@
+{
+  "name": "togobox",
+  "version": "0.0.1",
+  "description": "deployment api built on node.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

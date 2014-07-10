@@ -1,0 +1,8 @@
+# use npm install and bower install
+bower_components
+node_modules
+
+# ignore configuration details -user -pwd -apikeys -scripts
+config/database
+config/middleware
+config/scripts
